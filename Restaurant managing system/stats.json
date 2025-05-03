@@ -1,0 +1,14 @@
+{
+    "employee_orders": {
+        "test_user": 1,
+        "monika": 1,
+        "tomas": 0,
+        "admin": 0
+    },
+    "employee_turnover": {
+        "test_user": 10.0,
+        "monika": 8.0,
+        "tomas": 0.0,
+        "admin": 0.0
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "orders": [
+        {
+            "number": 1,
+            "items": [
+                [
+                    "Test Pizza",
+                    10.0
+                ]
+            ],
+            "total": 10.0,
+            "timestamp": "2025-05-03 13:52:04",
+            "employee": "test_user"
+        },
+        {
+            "number": 2,
+            "items": [
+                [
+                    "Gruzdintos bulvytės su padažu (mažas)",
+                    3.0
+                ],
+                [
+                    "Mushrooms",
+                    8.0
+                ]
+            ],
+            "total": 11.0,
+            "timestamp": "2025-05-03 13:54:41",
+            "employee": "monika"
+        },
+        {
+            "number": 3,
+            "items": [
+                [
+                    "Cheese",
+                    8.0
+                ]
+            ],
+            "total": 8.0,
+            "timestamp": "2025-05-03 13:55:01",
+            "employee": "monika"
+        },
+        {
+            "number": 4,
+            "items": [
+                [
+                    "Mushrooms",
+                    8.0
+                ]
+            ],
+            "total": 8.0,
+            "timestamp": "2025-05-03 13:55:20",
+            "employee": "monika"
+        },
+        {
+            "number": 5,
+            "items": [
+                [
+                    "Cheese",
+                    8.0
+                ]
+            ],
+            "total": 8.0,
+            "timestamp": "2025-05-03 13:56:36",
+            "employee": "tomas"
+        },
+        {
+            "number": 6,
+            "items": [
+                [
+                    "Cheese",
+                    10.0
+                ]
+            ],
+            "total": 10.0,
+            "timestamp": "2025-05-03 13:59:50",
+            "employee": "tomas"
+        },
+        {
+            "number": 7,
+            "items": [
+                [
+                    "Gruzdinti koldūnai 'Chinkali' su mėsa (14 vnt.)",
+                    5.5
+                ]
+            ],
+            "total": 5.5,
+            "timestamp": "2025-05-03 14:04:00",
+            "employee": "tomas"
+        },
+        {
+            "number": 8,
+            "items": [
+                [
+                    "Farmer's",
+                    10.0
+                ]
+            ],
+            "total": 10.0,
+            "timestamp": "2025-05-03 14:05:48",
+            "employee": "monika"
+        },
+        {
+            "number": 9,
+            "items": [
+                [
+                    "Chick",
+                    10.0
+                ]
+            ],
+            "total": 10.0,
+            "timestamp": "2025-05-03 14:08:50",
+            "employee": "tomas"
+        },
+        {
+            "number": 10,
+            "items": [
+                [
+                    "Pepperoni",
+                    8.0
+                ],
+                [
+                    "Mushrooms",
+                    10.0
+                ]
+            ],
+            "total": 18.0,
+            "timestamp": "2025-05-03 14:36:28",
+            "employee": "monika"
+        },
+        {
+            "number": 11,
+            "items": [
+                [
+                    "Chick",
+                    10.0
+                ]
+            ],
+            "total": 10.0,
+            "timestamp": "2025-05-03 14:36:39",
+            "employee": "monika"
+        },
+        {
+            "number": 12,
+            "items": [
+                [
+                    "BBQ",
+                    10.0
+                ]
+            ],
+            "total": 10.0,
+            "timestamp": "2025-05-03 14:36:46",
+            "employee": "monika"
+        },
+        {
+            "number": 13,
+            "items": [
+                [
+                    "Gruzdintos bulvytės su padažu ir daržovėmis (didelis)",
+                    4.5
+                ]
+            ],
+            "total": 4.5,
+            "timestamp": "2025-05-03 14:42:10",
+            "employee": "monika"
+        },
+        {
+            "number": 14,
+            "items": [
+                [
+                    "Juoda kava",
+                    1.5
+                ],
+                [
+                    "Sūrio spurgytės",
+                    6.0
+                ]
+            ],
+            "total": 7.5,
+            "timestamp": "2025-05-03 14:43:38",
+            "employee": "tomas"
+        },
+        {
+            "number": 15,
+            "items": [
+                [
+                    "Acala 0.75l",
+                    15.0
+                ]
+            ],
+            "total": 15.0,
+            "timestamp": "2025-05-03 14:45:13",
+            "employee": "tomas"
+        },
+        {
+            "number": 16,
+            "items": [
+                [
+                    "Student's",
+                    7.0
+                ]
+            ],
+            "total": 7.0,
+            "timestamp": "2025-05-03 14:46:45",
+            "employee": "monika"
+        },
+        {
+            "number": 17,
+            "items": [
+                [
+                    "Latte",
+                    2.0
+                ],
+                [
+                    "Latte",
+                    2.0
+                ],
+                [
+                    "Latte",
+                    2.0
+                ],
+                [
+                    "Latte",
+                    2.0
+                ],
+                [
+                    "Latte",
+                    2.0
+                ]
+            ],
+            "total": 10.0,
+            "timestamp": "2025-05-03 14:57:05",
+            "employee": "monika"
+        },
+        {
+            "number": 18,
+            "items": [
+                [
+                    "Student's",
+                    7.0
+                ]
+            ],
+            "total": 7.0,
+            "timestamp": "2025-05-03 14:59:06",
+            "employee": "monika"
+        },
+        {
+            "number": 19,
+            "items": [
+                [
+                    "Mushrooms",
+                    8.0
+                ]
+            ],
+            "total": 8.0,
+            "timestamp": "2025-05-03 15:04:33",
+            "employee": "monika"
+        },
+        {
+            "number": 20,
+            "items": [
+                [
+                    "Serrano",
+                    10.0
+                ]
+            ],
+            "total": 10.0,
+            "timestamp": "2025-05-03 15:11:00",
+            "employee": "monika"
+        },
+        {
+            "number": 21,
+            "items": [
+                [
+                    "Cheese",
+                    8.0
+                ]
+            ],
+            "total": 8.0,
+            "timestamp": "2025-05-03 15:29:01",
+            "employee": "monika"
+        }
+    ]
+}
